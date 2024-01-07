@@ -1,6 +1,7 @@
 # 📚 How to Create a GitHub Portfolio
 
-Hi, I'm Katie! 🙋🏻‍♀️ This is a **fuss-free** guide to create your GitHub portfolio. 
+**Looking to start a GitHub Portfolio and don't know where to start?** 
+Well, you came to the right place! This is designed to be a **super easy to follow** guide to create your GitHub portfolio. 
 
 It's perfect for
 - Beginners in data science looking to showcase samples of work, or projects.
@@ -8,8 +9,9 @@ It's perfect for
 - A fun way to track of your projects.
 
 **Why I created this repo?**
-- I used to find GitHub intimidating. When I first signed up in March 2021, I didn't understand how it worked and ended up leaving it aside. 
-- However, since then, I've become quite obsessed with writing in Markdowns 😆 and have learned how to use it. Now, I'm excited to share this knowledge with everyone. 🙂
+- I used to find GitHub intimidating. When I first discovered GitHub back in August 2023, I didn't understand how it worked and ended up leaving it aside. 
+- However, since then, I've become quite more confortable with GitHub and have learned how to use it. During my experience, I realized how powerful GitHub can be for professionals looking to create a Portfolio!
+- Now, I'm excited to share this knowledge with everyone to help advance their IT Journey!
 
 ## Table of Contents
 - [How to Create Your Profile?](#how-to-create-your-profile)
@@ -27,7 +29,7 @@ Let's start by understanding some of the terms you'll come across on GitHub:
 
 📌 `README.md` is a default note or summary that's usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything else - so feel free to write it.
 
-📌 `Fork` means `copy + paste` in layman's terms. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes you made in your copy of the file won't be reflected in this guide. I'll show you how to do it below.
+📌 `Fork` means `copy + paste` in layman's terms. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes you made in your copy of the file won't be reflected in this guide. I'll show you how to do it below.  *Fun fact: this repository was Forked over and adjusted to help you!*
 
 You don't need to download the GitHub Desktop to set up your portfolio. Your browser will do the job just fine. 🙂
 
