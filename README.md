@@ -1,6 +1,6 @@
 # 📚 How to Create a GitHub Portfolio
 
-Hi, I'm Katie! 🙋🏻‍♀️ This is a **fuss-free** guide to create your GitHub portfolio. 
+This is a **fuss-free** guide to create your GitHub portfolio. 
 
 It's perfect for
 - Beginners in data science looking to showcase samples of work, or projects.
